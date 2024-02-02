@@ -1,0 +1,15 @@
+body{
+    background-color: cornsilk;
+}
+#score{
+    font-size: 20px;
+    margin-left: 20px;
+}
+#time{
+    font-size: 25px;
+    float: right;
+    margin-right: 20px;
+}
+#sketch_toBeDrawn{
+    color: ;
+}
